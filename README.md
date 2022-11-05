@@ -1,5 +1,5 @@
 # agroman
-Low Scale Field or Greenhouse Production Management Program
+Minimal Field or Greenhouse Production Management Program
 
 ## Objectives
 
